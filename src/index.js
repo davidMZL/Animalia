@@ -20,9 +20,10 @@ const initialState = {
   "newProducts": [
     {
       id: 1,
-      name: "BITE",
+      name: "I WON'T BITE",
       description: "Bozal para perro",
-      image: "https://res.cloudinary.com/fangel/image/upload/v1626514963/Animalia/cards/1.png",
+      // image: "https://res.cloudinary.com/fangel/image/upload/v1626514963/Animalia/cards/1.png",
+      image : "https://res.cloudinary.com/dzu0fbwac/image/upload/c_scale,w_200/v1683164194/Veterinaria/81Gtj-sLspL._AC_SL1500__mqbx1p.jpg",
       price: 96,
       category: "new"
     },
@@ -51,6 +52,8 @@ const initialState = {
       category: "new"
     },    
   ],
+  
+  // Parte donde se ponen los productos populares
   "popularProducts": [
     {
       id: 5,
