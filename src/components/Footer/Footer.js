@@ -15,7 +15,7 @@ const Footer = () => {
                 <ContainerInfo>
                     <ContactInfo>
                         <TextFooterStyled white paragraph image={locationIcon}><i></i>Ayacucho - Perú</TextFooterStyled>
-                        <TextFooterStyled white paragraph image={callIcon}><i></i>666-123-243</TextFooterStyled>
+                        <TextFooterStyled white paragraph image={callIcon}><i></i>940-890-988</TextFooterStyled>
                         <TextFooterStyled white paragraph image={messageIcon}><i></i>animalia@veterinary.com</TextFooterStyled>
                     </ContactInfo>
                     <NavLinks bot30top orderLast>
@@ -34,13 +34,13 @@ const Footer = () => {
                             <TextFooterStyled white paragraph>Acerca de Nosotros</TextFooterStyled>
                         </ItemLink>
                         <ItemLink>
-                            <TextFooterStyled white paragraph>Términos y Políticas de Privacidad</TextFooterStyled>
+                            <TextFooterStyled white paragraph>Políticas de Privacidad</TextFooterStyled>
                         </ItemLink>
                     </NavLinks>
                 </ContainerInfo>
             </TopFooter>
             <BottomFooter>
-                <TextFooterStyled white>© 2021 Todos los Derechos Reservados</TextFooterStyled>
+                <TextFooterStyled white>© 2022 Todos los Derechos Reservados</TextFooterStyled>
             </BottomFooter>
         </WrapperFooter>
     );
