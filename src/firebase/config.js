@@ -1,8 +1,8 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyDzuGg0EfDBkHDj-f5cec8G5gp96Y6go6E",
-    authDomain: "animalia-cda7b.firebaseapp.com",
-    projectId: "animalia-cda7b",
-    storageBucket: "animalia-cda7b.appspot.com",
-    messagingSenderId: "146018917308",
-    appId: "1:146018917308:web:e66971ed412862fe7f29b9"
+  apiKey: "AIzaSyBVGks8hS36D9ixEVQQYx1c8kjNhbi9vyE",
+  authDomain: "animalia-54c91.firebaseapp.com",
+  projectId: "animalia-54c91",
+  storageBucket: "animalia-54c91.appspot.com",
+  messagingSenderId: "153906972408",
+  appId: "1:153906972408:web:02cd116739e9569535dd0d"
   };
