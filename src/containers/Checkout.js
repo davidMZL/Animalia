@@ -17,7 +17,7 @@ const Checkout = () => {
                 <Order setTotalPriceCart={setTotalPriceCart} totalPriceCart={totalPriceCart}/>
                 <CartForm totalPrice={totalPriceCart}/>
             </ContainerCheckout>
-            <Info text1="Envío Rápidos" text2="Producto Asegurado" text3="Reembolsos"/>
+            <Info text1="Envios Rápidos" text2="Producto Asegurado" text3="Reembolsos"/>
         </>
     );
 }

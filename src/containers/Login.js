@@ -39,14 +39,14 @@ const Login = () => {
                         <LineSeparator/>
 
                         <InputSubmit type="submit" value="Iniciar Sesión" top20btm40/>
-                        <TextStyled>No tienes cuenta? <NavLink orange="true" to="/register">Regístrate</NavLink></TextStyled>
+                        <TextStyled>Aún no tienes cuenta? <NavLink orange="true" to="/register">Regístrate</NavLink></TextStyled>
                     </Form>
                     <RightWallPaper>
                         <TitleStyled white weight="700">Al cuidado de tu mascota</TitleStyled>
                         <PictureImage>
                             <img src={animaliaLogo} alt="Log de Animalia"/>
                         </PictureImage>
-                        <TextStyled white>Volver al inicio  <NavLink orange="true" to="/">Home</NavLink></TextStyled>
+                        <TextStyled white>Volver al inicio  <NavLink orange="true" to="/">Inicio</NavLink></TextStyled>
                     </RightWallPaper>
                 </LoginContainer>
             }

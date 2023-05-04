@@ -22,19 +22,20 @@ const Hero = () => {
                 <ChildHeroContainer>
                     <SubtitleStyled weight="700" bottom10 line30>Todo lo que tu mascota ama</SubtitleStyled>
                     <TextStyled width155>Con descuentos de 20% en la compra de alimentos.</TextStyled>
-                    <img src={dogsFoodImage} alt="Imagen de un perro"/>
+                    <img src={dogsFoodImage} alt="Imagen de comida de perro"/>
                 </ChildHeroContainer>
                 <ChildHeroContainer>
                     <TextStyled>Accesorios para todos los </TextStyled>
                     <SubtitleStyled weight="700" bottom27 line30>animales</SubtitleStyled>
-                    <img src={littleHouseImage} alt="Imagen de un perro"/>
+                    <img src={littleHouseImage} alt="Imagen de un hamster"/>
                 </ChildHeroContainer>
                 <ChildHeroContainer>
                     <SubtitleStyled weight="700" bottom10 line30 white>Atención a todas tus mascotas</SubtitleStyled>
                     <TextStyled white>Contamos con especialistas que te ayudarán</TextStyled>
-                    <img src={animalsImage} alt="Imagen de un perro"/>
+                    <img src={animalsImage} alt="Imagen de animales"/>
                 </ChildHeroContainer>
             </HeroContainer>
+
         </HeroWrapper>
     );
 }

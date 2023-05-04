@@ -19,7 +19,7 @@ const Home = ({newProducts, popularProducts, myList, numberCart}) => {
             <Info 
                 text1="ENVIOS GRATIS" 
                 text2="GARANTIA ASEGURADA" 
-                text3="SOPORTE 24/7"
+                text3="ATENCION 24/7"
             />    
             <Categories colorBackground={colors.color.backCards} title="Nuevos Productos">
                 <Carousel>
